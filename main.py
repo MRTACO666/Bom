@@ -19,12 +19,10 @@ def spam():
 
 
 print(colorama.Fore.GREEN + """
-___________                 .__ .__     _________                         
-\\_   _____/  _____  _____   |__||  |   /   _____/______ _____     _____   
- |    __)_  /     \\ \\__  \\  |  ||  |   \\_____  \\ \\____ \\__  \\   /     \\  
- |        \\|  Y Y  \\ / __ \\_|  ||  |__ /        \\|  |_> >/ __ \\_|  Y Y  \\ 
-/_______  /|__|_|  /(____  /|__||____//_______  /|   __/(____  /|__|_|  / 
-        \\/       \\/      \\/                   \\/ |__|        \\/       \\/  """ + colorama.Fore.CYAN + "\n 			by @anongroup and @wannadeauth (telegram) \n ----------------------------------\n\n")
+             \  /
+  /\    ___   \/
+ /  \  |   |  /\
+/    \ |___| /  \""" + colorama.Fore.CYAN + "\n 			by ——— and –——— (telegram) \n ----------------------------------\n\n")
 
 
 spam_id = input(colorama.Fore.MAGENTA + "Type victim`s email here: " + colorama.Fore.WHITE)
